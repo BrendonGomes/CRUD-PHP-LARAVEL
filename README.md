@@ -70,7 +70,7 @@ Neste momento, você está escalado para trabalhar com a equipe de **back-end** 
 
 A prova poderá ser entregue até:
 
-**21/09/2020 às 23:59:59**
+**04/10/2020 às 23:59:59**
 
 ## Como entregar a prova
 
